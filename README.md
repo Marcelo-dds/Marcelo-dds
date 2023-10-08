@@ -9,8 +9,8 @@ Eu  me chamo Marcelo Souza e estou em meio a uma transição empolgante de carre
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+"Codifique com paixão, mude o mundo uma linha de cada vez." 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marcelo-dds&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marcelo-dds/Marcelo-dds-)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-dds)](https://github.com/Marcelo-dds/Marcelo-dds-)
 
-> “O código, assim como o futuro do mundo, depende disso, porque depende.” (Codifique como se o futuro do mundo dependesse disso, porque depende.)
+
