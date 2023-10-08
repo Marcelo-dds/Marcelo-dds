@@ -12,3 +12,5 @@ Eu  me chamo Marcelo Souza e estou em meio a uma transição empolgante de carre
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marcelo-dds&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marcelo-dds/Marcelo-dds-)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-dds)](https://github.com/Marcelo-dds/Marcelo-dds-)
+
+> “O código, assim como o futuro do mundo, depende disso, porque depende.” (Codifique como se o futuro do mundo dependesse disso, porque depende.)
