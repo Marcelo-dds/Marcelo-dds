@@ -1,11 +1,11 @@
-# Olá, pessoal! 😁  
-Meu nome é Marcelo Souza e estou em uma emocionante transição de carreira para o desenvolvimento **Full Stack**, com foco especial em **back-end**. Atualmente, estou trabalhando em projetos de automação e em um sistema de tradução automática que poderá ser aplicado em diversas áreas, como jogos, artigos e livros. Também estou aprimorando minhas habilidades através de cursos na Alura, focando em **Python**, **APIs** e **automação**.
+# Hello, everyone! 😁  
+My name is Marcelo Souza, and I'm in an exciting career transition to **Full Stack** development, with a special focus on **back-end**. I'm currently working on automation projects and a machine translation system that can be applied in various fields such as games, articles, and books. I'm also enhancing my skills through courses at Alura, focusing on **Python**, **APIs**, and **automation**.
 
-A tecnologia sempre foi uma paixão, e agora tenho a oportunidade de transformar isso em uma carreira. Se você está interessado em acompanhar minha jornada ou trocar ideias sobre automação e desenvolvimento, adoraria me conectar com você pelo [LinkedIn](https://www.linkedin.com/in/marcelo-souza-652932180/).
+Technology has always been a passion, and now I have the opportunity to turn that into a career. If you're interested in following my journey or exchanging ideas about automation and development, I'd love to connect with you!
 
-## Vamos nos conectar?
+## Let's connect?
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-souza-652932180/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-souza-652932180/)
 
 ## Hard Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@ A tecnologia sempre foi uma paixão, e agora tenho a oportunidade de transformar
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> "Codifique com paixão, mude o mundo uma linha de código de cada vez."
+> "Code with passion, change the world one line of code at a time."
 
 ---
 
@@ -23,3 +23,4 @@ A tecnologia sempre foi uma paixão, e agora tenho a oportunidade de transformar
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marcelo-dds&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marcelo-dds/Marcelo-dds-)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-dds&layout=compact&theme=dark)](https://github.com/Marcelo-dds/Marcelo-dds-)
+
