@@ -1,26 +1,40 @@
-# Hello, everyone! 😁  
-My name is Marcelo Souza, and I'm in an exciting career transition to **Full Stack** development, with a special focus on **back-end**. I'm currently working on automation projects and a machine translation system that can be applied in various fields such as games, articles, and books. I'm also enhancing my skills through courses at Alura, focusing on **Python**, **APIs**, and **automation**.
 
-Technology has always been a passion, and now I have the opportunity to turn that into a career. If you're interested in following my journey or exchanging ideas about automation and development, I'd love to connect with you!
+# 👋 Olá, eu sou o Marcelo Souza
 
-## Let's connect?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-souza-652932180/)
-
-## Hard Skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-> "Code with passion, change the world one line of code at a time."
+🎓 Estudante de **Análise de Dados e Inteligência de Mercado** com foco em transformar dados em soluções práticas e aplicáveis ao mercado.  
+📈 Desenvolvo projetos com **Python, SQL, Power BI** e automações voltadas para análise de dados, especialmente na área de finanças.
 
 ---
 
-### GitHub Stats
+## 💼 Experiência com Projetos
+- 📊 **Dashboard de Vendas com Power BI** – Visualização interativa de dados com KPIs e segmentações.
+- 🐍 **Automação com Python + Excel** – Coleta, tratamento e exportação de dados automatizada.
+- 🧾 **Análise Financeira com Python** – Uso de APIs públicas para obter cotações, calcular indicadores e gerar relatórios.
+- 🗃️ **Consultas SQL em Base de Vendas** – Operações com filtros, agrupamentos e joins.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marcelo-dds&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Marcelo-dds/Marcelo-dds-)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-dds&layout=compact&theme=dark)](https://github.com/Marcelo-dds/Marcelo-dds-)
+---
 
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 🎯 Objetivo Profissional
+Atuar como **Analista de Dados** em projetos que envolvam insights de negócio, automação de processos e visualização de dados.  
+Também estou aberto a oportunidades de **estágio e freelancer** na área de dados.
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
+- 📧 seuemail@gmail.com
+
+---
+
+### 💡 *"Dados bem analisados contam as melhores histórias."*
